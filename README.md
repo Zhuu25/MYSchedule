@@ -1,2 +1,1 @@
-# MYSchedule
-Software Engineering Lab
+# Schedule
